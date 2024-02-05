@@ -1,3 +1,4 @@
+# Jogo De pedra, papel e tesoura contra máquina 
 # "import random" -> é um modulo aleatorio
 
 import random 
